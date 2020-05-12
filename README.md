@@ -1,10 +1,10 @@
-# AMP Outreach working group
+# AMP Outreach - Grupo de Trabalho
 
-Responsible for helping developers who use AMP to remain productive and keeping the AMP community healthy. This includes maintaining and enhancing AMP's developer-facing sites and documentation, maintaining communication channels, organizing community events, etc.
+Responsável por ajudar os programadores que utilizam o AMP para permanecerem produtivos e a manter a comunidade do AMP saudável. Isto inclui a manutenção e o melhoramento dos ''sites'' e documentação, para os programadores do AMP, manter canais de comunicação, organizar eventos da comunidade, etc.
 
-# Members
+# Membros
 
-- [@sebastianbenz](https://github.com/sebastianbenz) - Sebastian Benz (Facilitator)
+- [@sebastianbenz](https://github.com/sebastianbenz) - Sebastian Benz (Facilitador)
 - [@pbakaus](https://github.com/pbakaus) - Paul Bakaus
 - [@CrystalOnScript](https://github.com/CrystalOnScript) - Crystal Lambert
 - [@morsssss](https://github.com/morsssss) - Ben Morss
@@ -13,29 +13,29 @@ Responsible for helping developers who use AMP to remain productive and keeping 
 - [@mattludwig](https://github.com/mattludwig) - Matt Ludwig
 - [@uskay](https://github.com/uskay) - Yusuke Utsonomiya
 
-Github team [github.com/orgs/ampproject/teams/wg-outreach](https://github.com/orgs/ampproject/teams/wg-outreach) also includes Outreach WG members.
+A equipa no GitHub [github.com/orgs/ampproject/teams/wg-outreach](https://github.com/orgs/ampproject/teams/wg-outreach) também inclui os membros de Outreach WG.
 
-## Communication channels
+## Canais de Comunicação
 
 - Slack ([signup](https://docs.google.com/forms/d/e/1FAIpQLSd83J2IZA6cdR6jPwABGsJE8YL4pkypAbKMGgUZZriU7Qu6Tg/viewform?fbzx=4406980310789882877))
-  - #wg-outreach - main channel for outreach related real time communication (open to anyone)
-  - #docs - for everything documentation related
-  - #amp-conf - for everything AMP Conf related
+  - #wg-outreach - canal principal para comunicação em tempo real relacionada com o alcance (aberta a qualquer pessoa)
+  - #docs - para tudo o que for relacionado com documentação
+  - #amp-conf - para tudo o que for relacionado com AMP Conf
 - Twitter
-  - [@amphtml](https://twitter.com/amphtml) - official Twitter account for AMP
+  - [@amphtml](https://twitter.com/amphtml) - conta oficial do Twitter para o AMP
 
-### Updates
+### Atualizações
 
-- Outreach Working Group will post **Status Updates** every two weeks as an issue labeled with `Type: Status Update` in this repository.
-- Outreach Working Group will post **Announcements and Notices** regarding events as an issue labeled with `Type: Event` in this repository.
-- Outreach Working Group will post **Quarterly Roadmap** as an issue labeled with `Type: Roadmap` in this repository.
+- Outreach Working Group irá publicar **Estado das Atualizações** a cada duas semanas como um ponto etiquetado com `Tipo: Estado da Atualização` neste repositório.
+- Outreach Working Group irá publicar **Anúnicos e Avisos** reladionados com eventos como um ponto etiquetado com `Tipo: Evento` neste repositório.
+- Outreach Working Group irá publicar **Calendário Trimestral** como um ponto etiquetado com `Tipo: Calenário` neste repositório.
 
-### Issues / requests / bugs
+### Problemas / pedidos / erros (''bugs'')
 
-Please do not file issues related to AMP or our documentation/website in this repository. Instead, use [github.com/ampproject/amphtml/issues](https://github.com/ampproject/amphtml/issues) and [github.com/ampproject/amp.dev/issues](https://github.com/ampproject/amp.dev/issues), respectively.
+Por favor, não reporte problemas relacionados com o AMP ou a nossa documentação/''site'' da Web neste repositório. Em vez disso, utilize  [github.com/ampproject/amphtml/issues](https://github.com/ampproject/amphtml/issues) e [github.com/ampproject/amp.dev/issues](https://github.com/ampproject/amp.dev/issues), respetivamente.
 
-`@ampproject/wg-outreach` can be used to mention the Outreach Working Group in issues and PRs.
+`@ampproject/wg-outreach` pode ser utilziado para mencionar Outreach Working Group nos problemas e PRs.
 
-# Code of Conduct
+# Código de Conduta
 
-Outreach Working Group follows the [AMP open source project code of conduct](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md).
+Outreach Working Group segue [AMP - código de conduta de projeto aberto](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md).
